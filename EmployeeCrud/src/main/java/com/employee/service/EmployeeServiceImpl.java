@@ -39,6 +39,9 @@ public class EmployeeServiceImpl implements EmployeService {
 public void call() {
 	System.out.println("it will not return anything");
 }
+public void eat() {
+	System.out.println("it will not return anything");
+}
 }
 
 	
